@@ -29,6 +29,6 @@ Skills:  BigQuery, MySQL | Python | Fivetran | Looker Studio, Tableau | Ms Excel
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrakibhasanrc)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdrakibhasanrc)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdrakibhasanrc)  
 
 ![Profile views](https://gpvc.arturio.dev/mdrakibhasanrc)  
