@@ -1,5 +1,4 @@
-![BI Data Analyst | Analytics Engineer](https://media.licdn.com/dms/image/D5635AQH9HNsLa3Nnhg/profile-framedphoto-shrink_400_400/0/1673546254169?e=1687071600&v=beta&t=VwGRe9BFi8J4wmB1TdC8dwbxQnjKavk6RYK-lY9QuJM)
-
+![BI Data Analyst | Analytics Engineer](https://avatars.githubusercontent.com/u/103329593?v=4)
 ### Hi there 👋, My Name is Md Rakib Hasan
 #### BI Data Analyst | Analytics Engineer
 
@@ -26,8 +25,6 @@ Skills:  BigQuery, MySQL | Python | Fivetran | Looker Studio, Tableau | Ms Excel
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibhasanrc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrakibhasanrc&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrakibhasanrc)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdrakibhasanrc)  
 
